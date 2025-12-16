@@ -1,0 +1,2 @@
+คำสั่ง: dotnet publish -c Release 
+ไฟล์เดียวจะอยู่ที่ bin\Release\net8.0-windows\win-x64\publish\LatencyTweakTool.exe
